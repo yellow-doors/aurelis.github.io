@@ -44,8 +44,8 @@ charadex.sheet = {
 
     designTypes: ['All', 'Fools Gold', 'Herrings Call', 'NPC', 'Deity'],
     magic: ['All', 'Life', 'Elements', 'Psyche'],
-    itemTypes: ['All', 'Currency', 'Equip - Head', 'Equip - Body', 'Equip - Legs' 'Equip - Feet'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
+    itemTypes: ['All', 'Currency', 'Weapon(s)', 'Equipment', 'Trinkets', 'Misc'],
+    armorTypes: ['All', 'Ears', 'Head', 'Neck', 'Body', 'Arms', 'Legs', 'Feet', 'Tail', 'Misc']
 
   }
 
