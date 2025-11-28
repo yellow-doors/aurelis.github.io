@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Aurelis Campaigns",
-  url: "https://the-aurelis.com",
+  url: "www.the-aurelis.com",
   description: `major wip.`
 }
 
